@@ -8,7 +8,7 @@ This repository contains a **Streamlit**-based visualization tool that maps vari
 - [Installation](#installation)
 - [Usage](#usage)
 - [Parameters](#parameters)
-- [Screenshots](#screenshots)
+- [Screenshots](#screenshot)
 - [Contributing](#contributing)
 
 
