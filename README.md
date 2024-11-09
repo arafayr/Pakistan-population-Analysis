@@ -2,6 +2,8 @@
 
 This repository contains a **Streamlit**-based visualization tool that maps various demographic, educational, and population metrics for Pakistan. The interactive tool plots markers on a map of Pakistan, where each marker represents a city. The tool allows users to analyze population data and schooling metrics by adjusting primary and secondary parameters.
 
+**Link of this tool** [Pakistan_pop_visualization_tool](https://pakistan-pop-visualization.streamlit.app/)
+
 ## Table of Contents
 - [Features](#features)
 - [Dataset](#dataset)
